@@ -1,3 +1,1 @@
-44
-ghhhh
-ggh
+vless://195c3375-a3f4-4ae3-b0a5-556eba8fcf43@162.159.153.19:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=rz.zvjmxrgs3867.workers.dev&fp=randomized&type=ws&sni=rz.zvjmxrgs3867.workers.dev#rz.zvjmxrgs3867.workers.dev
